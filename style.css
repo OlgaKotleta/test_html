@@ -1,0 +1,33 @@
+h1{
+    color: rgb(113, 99, 136);
+    position: absolute;
+    margin-top: 100px;
+    padding-left: 45%;
+    width: 300px;
+}
+.img1{
+    position: absolute;
+    width: 200px;
+   
+}
+.button{
+    width: 100px;
+    border: solid rgb(177, 89, 89) 1px;
+    border-radius: 10px;
+    background: rgb(99, 1, 1);
+    color: white;
+}
+.a{
+  text-decoration: none;  
+  color: rgb(43, 38, 32);
+  background: wheat;
+}
+.input1{
+    width: 300px;
+}
+body{
+    background: wheat;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
